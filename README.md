@@ -4,4 +4,4 @@
 > 
 > Website Link: *[https://algo-filipino.github.io/rovic-weather-app/](https://algo-filipino.github.io/rovic-weather-app/)*
 
-[![Weather App](home.PNG)](https://algo-filipino.github.io/rovic-weather-app/) 
+[![Weather App](Home.PNG)](https://algo-filipino.github.io/rovic-weather-app/) 
